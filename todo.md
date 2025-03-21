@@ -9,3 +9,4 @@
 [X] - Opened File header
 [ ] - Correct bug on file header
 [ ] - When click outside explorer close on screen-md or less
+[ ] - Add animation when explorer button is disabled
